@@ -1,0 +1,32 @@
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: rgb(223, 223, 223);
+}
+div.FilmCard{
+  margin-top: 60px;
+}
+
+.FilmCard-title{
+  height: 70px;
+  background-color:rgb(191, 191, 191);
+  padding: 15px;
+  color:white;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+.col-md-4{
+  padding: 0;
+}
+div.col-md-6.col-md-offset-3{
+  background-color: rgb(203, 203, 203);
+  padding: 0;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+.FilmCard-desc{
+  padding-top: 70px;
+  font-size: 22px;
+   line-height: 2.6;
+   color:white;
+}
